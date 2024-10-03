@@ -53,6 +53,6 @@ fun main() {
 }
 
 class User(name: String, var lastName: String, var age: Int) {
-            var name : String = name
+
 }
 
