@@ -5,8 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98cce149-e909-4002-bc7e-71ebe755d64f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/main/kotlin/Classes.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/data-types.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/CharAndBoolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlow/src/main/kotlin/ControlFlow.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatandDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatandDouble/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FloatandDouble/src/main/kotlin/FloatAndDouble.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatandDouble/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/kotlin/PrintHelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Operators/src/main/kotlin/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Variables/src/main/kotlin/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +90,10 @@
       <workItem from="1727721414740" duration="3024000" />
       <workItem from="1727758526459" duration="4009000" />
       <workItem from="1727764394127" duration="84000" />
-      <workItem from="1727773882415" duration="989000" />
+      <workItem from="1727773882415" duration="7669000" />
+      <workItem from="1727801314165" duration="800000" />
+      <workItem from="1727864587255" duration="35000" />
+      <workItem from="1727952560304" duration="25000" />
     </task>
     <servers />
   </component>

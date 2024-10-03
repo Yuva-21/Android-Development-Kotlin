@@ -2,7 +2,7 @@ fun main() {
 
 // For Loop
 
-      for (i in 1..10) {
+     for (i in 1..10) {
           println(i)
       }
 
@@ -57,16 +57,37 @@ fun main() {
 
     // Do/While Loop
 
-     var number = 10
+     var numm = 10
 
       do {
-          println(number)
-      } while (number > 10)
+          println(numm)
+      } while (numm> 10)
 
 
     // challenge(Test)
 
+    var firstNum = 1
+    val lastNum = 20
+    var evenNumberCounter = 0
 
-
+    while (firstNum <= lastNum) {
+        firstNum++
+        if (!evenNumber(firstNum)){
+            continue
+        }
+        evenNumberCounter++
+        println(firstNum)
+    }
+        println("Total even numbers in this list are $evenNumberCounter.")
 
 }
+
+    fun evenNumber (number: Int) : Boolean {
+        if ((number % 2) == 0) {
+            return true
+        }else {
+            return false
+        }
+    }
+
+

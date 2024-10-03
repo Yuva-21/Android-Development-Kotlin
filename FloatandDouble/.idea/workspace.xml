@@ -5,10 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a6d1235-bc3d-44cf-9fb5-0e7eccd71bbb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/data-types.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Null/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Null/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/CharAndBoolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ControlFlow/src/main/kotlin/ControlFlow.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FloatAndDouble.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Functions/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/src/main/kotlin/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,22 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.FloatAndDoubleKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.FloatAndDoubleKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -61,6 +75,7 @@
       <updated>1727679593168</updated>
       <workItem from="1727679594220" duration="936000" />
       <workItem from="1727720651823" duration="16000" />
+      <workItem from="1727864736189" duration="13000" />
     </task>
     <servers />
   </component>
