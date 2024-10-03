@@ -35,30 +35,30 @@ fun main() {
 
     // Arrays Challenge
 
-    var max = findMaxAndMin(arrayOf(1,5,20,40,60), true)
-    var min = findMaxAndMin(arrayOf(4,5,20,40,60), false)
+    var max = findMaxAndMin(arrayOf(1, 5, 20, 40, 60), true)
+    var min = findMaxAndMin(arrayOf(4, 5, 20, 40, 60), false)
     println("the max value is $max")
     println("the min value is $min")
 }
 
-    fun findMaxAndMin (numbers: Array<Int>, searchMax: Boolean): Int {
-        var max = numbers[0]
-        var min = numbers[0]
+fun findMaxAndMin(numbers: Array<Int>, searchMax: Boolean): Int {
+    var max = numbers[0]
+    var min = numbers[0]
 
-        if (searchMax) {
-            for (number in numbers) {
-                if(max < number){
-                    max = number
-                }
+    if (searchMax) {
+        for (number in numbers) {
+            if (max < number) {
+                max = number
             }
-            return max
-        } else {
-            for (number in numbers){
-                if(min > number){
-                    min = number
-                }
-            }
-            return min
         }
-
+        return max
+    } else {
+        for (number in numbers) {
+            if (min > number) {
+                min = number
+            }
+        }
+        return min
     }
+
+}

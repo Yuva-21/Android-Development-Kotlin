@@ -85,9 +85,11 @@ fun main() {
     fun evenNumber (number: Int) : Boolean {
         if ((number % 2) == 0) {
             return true
-        }else {
+        } else {
             return false
         }
     }
+
+
 
 

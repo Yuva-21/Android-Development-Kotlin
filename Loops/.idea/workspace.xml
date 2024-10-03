@@ -5,36 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98cce149-e909-4002-bc7e-71ebe755d64f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Arrays/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/Arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Arrays/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/src/main/kotlin/Classes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../OOP/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/data-types.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../ByteIntShortLong/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/CharAndBoolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../CharAndBoolean/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ControlFlow/src/main/kotlin/ControlFlow.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FloatandDouble/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatandDouble/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../FloatandDouble/src/main/kotlin/FloatAndDouble.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../FloatandDouble/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Functions/src/main/kotlin/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Functions/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HelloWorld/src/main/kotlin/PrintHelloWorld.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Operators/src/main/kotlin/Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Operators/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Variables/src/main/kotlin/Variables.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../Variables/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../OOP/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,35 +23,34 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2mngrWAQeqIjrTFLgLxjtRjeakJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Kotlin.LoopsKt.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Kotlin.LoopsKt.executor": "Run",
+    "Kotlin.MainKt.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/tresz/IdeaProjects/Arrays",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "inlay.hints",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
-      </set>
-    </attachedChunks>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -94,6 +68,9 @@
       <workItem from="1727801314165" duration="800000" />
       <workItem from="1727864587255" duration="35000" />
       <workItem from="1727952560304" duration="25000" />
+      <workItem from="1727955961235" duration="10000" />
+      <workItem from="1727956927757" duration="69000" />
+      <workItem from="1727957041276" duration="56000" />
     </task>
     <servers />
   </component>
